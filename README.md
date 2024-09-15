@@ -25,3 +25,6 @@
 
 - Dùng lệnh: "flutter run" để chạy dự án hoặc sử dụng VSCode Extension Flutter Runner để chạy dự án.
 - Chỉnh lại bất kỳ cài đặt hoặc cấu hình nào cần thiết để dự án có thể chạy mà không gặp lỗi.
+
+## Demo
+
