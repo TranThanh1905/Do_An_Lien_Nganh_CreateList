@@ -35,3 +35,6 @@
 ![Add Task](https://github.com/user-attachments/assets/584b5e8f-ee29-4199-bb03-86884e65fde5)
 ### Statistic
 ![Statistic](https://github.com/user-attachments/assets/00d96276-3dde-4def-b5d6-8d7be506251f)
+
+## Lưu s:
+- Dự án này dành cho môn "Dự án liên nghành" mình làm ở ĐH, nhóm gòm 4 người làm, có sai chỗ nào mong mọi người thông cảm
