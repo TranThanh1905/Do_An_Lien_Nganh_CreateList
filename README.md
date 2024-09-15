@@ -1,4 +1,4 @@
-# firebase_setup
+## firebase_setup
 
 Đây là một dự án ứng dụng To-do đơn giản được xây dựng bằng Flutter và Firebase. Ứng dụng cho phép người dùng quản lý các công việc của họ, bao gồm thêm, sửa đổi và đánh dấu các công việc đã hoàn thành. Firebase Authentication được sử dụng để xác thực người dùng, và Firestore được sử dụng để lưu trữ dữ liệu công việc.
 
@@ -27,4 +27,11 @@
 - Chỉnh lại bất kỳ cài đặt hoặc cấu hình nào cần thiết để dự án có thể chạy mà không gặp lỗi.
 
 ## Demo
-
+### Login
+![Login](https://github.com/user-attachments/assets/3243e6f9-1fce-4b6a-b23f-8424d19ea762)
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/2625aacc-47df-4838-8c8b-e33eb0dab90b)
+### Add Task
+![Add Task](https://github.com/user-attachments/assets/584b5e8f-ee29-4199-bb03-86884e65fde5)
+### Statistic
+![Statistic](https://github.com/user-attachments/assets/00d96276-3dde-4def-b5d6-8d7be506251f)
